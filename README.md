@@ -8,7 +8,7 @@ I've been learning to code for 1.5 years, after switching careers from mechanica
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [sgdaran161996@gmail.com](mailto:sgdaran161996@gmail.com)
-* 🚀  I'm currently working on [Bausch Health](http://www.bauschhealth.com/)
+* 🚀  I'm currently working on [Unique Force Technology Solution](https://uniqueforce.in/)
 * 🧠  I'm learning ReactJS, Spring Boot,
 * 🤝  I'm open to collaborating on Intresting Projects
 
