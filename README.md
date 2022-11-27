@@ -4,7 +4,7 @@ Hi 👋 My name is Giridharan
 Web Developer
 -------------
 
-I've been learning to code for 1.5 years, after switching careers from mechanical. I started with HTML, CSS, but have really found a passion for frontend development...
+I've been learning to code for 1.5 years, after switching careers from mechanical. I started with HTML, CSS and JS but have really found a passion for frontend development...
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [sgdaran161996@gmail.com](mailto:sgdaran161996@gmail.com)
