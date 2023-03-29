@@ -8,7 +8,7 @@ I've been learning to code for 1.5 years, after switching careers from mechanica
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [sgdaran161996@gmail.com](mailto:sgdaran161996@gmail.com)
-* 🚀  I'm currently working on [Unique Force Tech](https://uniqueforce.in/)
+* 🚀  I'm currently working on [Unique Technology solution](https://uniqueforce.in/)
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Intresting Projects
 
