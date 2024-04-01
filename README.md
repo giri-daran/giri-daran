@@ -4,9 +4,9 @@ Hi 👋 My name is Giridharan
 Web Developer
 -------------
 
-I've been learning to code for 1.5 years, after switching careers from mechanical. I started with HTML, CSS and JS but have really found a passion for frontend development...
+I've been a Web developer for 3 years, after switching careers from mechanical. I started with HTML, CSS and JS but have really found a passion for Frontend Development...
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm a Web Developer based in Chennai
 * ✉️  You can contact me at [sgdaran161996@gmail.com](mailto:sgdaran161996@gmail.com)
 * 🚀  I'm currently working on [Unique Technology solution](https://uniqueforce.in/)
 * 🧠  I'm learning ReactJS and Redux
